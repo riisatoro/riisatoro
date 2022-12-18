@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @riisatoro (Daniil).
-- 👀 I’m interested in game development and web development. 
-- 🌱 I’m currently learning multiplayer game dev.
-- 💞️ I’m looking to collaborate on interesting projects.
-- 📫 How to reach me: riisa.toro@gmail.com 
+- 👋 Hi, I’m Daniil Istomin aka @riisatoro
 
-<!---
-riisatoro/riisatoro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a Full Stack Web Developer, and here you can find my personal projects.
+If you're looking for something interesting, or you had a look at my CV, check these repos:
+
+# [YouSearch](https://github.com/riisatoro/yousearch)
+This is an integration with YouTube. User can create a profile, search for the videos and save them to favorites.
