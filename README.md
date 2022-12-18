@@ -1,7 +1,9 @@
 ### Welcome there!
-### I’m Daniil Istomin aka @riisatoro - a Full Stack web developer.
+## I’m Daniil Istomin aka @riisatoro - a Full Stack web developer.
 
 If you had a look at my CV or just searching for fun, take a look at these repos:
+
+---
 
 # [YouSearch](https://github.com/riisatoro/yousearch)
 This is an integration with YouTube. User can create a profile, search for the videos and save them to favorites.
@@ -27,6 +29,7 @@ API remake of the famous UNO card game.
 # [Memory Tiles](https://github.com/riisatoro/pygame-memory-puzzle)
 Memory game, where you should match two tiles with the same image.
 
+---
 
 That's it for now. Feel free to contact me: it.istomin@gmail.com
 Bye!
